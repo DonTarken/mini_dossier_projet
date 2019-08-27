@@ -78,6 +78,7 @@ Mot de passe oublié:
 
 ![](./img/email-reset-password.png)
 ![](./img/email_reset_password.PNG)
+![](./img/bdd-reset-password.png)
 ![](./img/new-password-reset-password.png)
 
 Profile :
